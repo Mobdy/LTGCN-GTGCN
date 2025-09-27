@@ -1,0 +1,101 @@
+source,source_name,target,target_name,weekly_flow
+1301308,Codajás,1303908,São Paulo de Olivença,8.0
+1302603,Manaus,1303908,São Paulo de Olivença,23.25
+1303908,São Paulo de Olivença,1304203,Tefé,11.0
+1501808,Breves,1506005,Prainha,14.0
+1500305,Afuá,1600303,Macapá,49.5
+1502806,Curralinho,1504505,Melgaço,6.0
+1301704,Humaitá,1303106,Nova Olinda do Norte,6.0
+1301902,Itacoatiara,1304401,Urucurituba,54.0
+1501105,Bagre,1501303,Barcarena,8.0
+1303403,Parintins,1500404,Alenquer,1.0
+1301902,Itacoatiara,1302603,Manaus,42.0
+1501402,Belém,1508357,Vitória do Xingu,3.0
+1301308,Codajás,1302603,Manaus,74.5
+1501204,Baião,1504604,Mocajuba,1.5
+1501808,Breves,1600600,Santana,14.5
+1506807,Santarém,1600600,Santana,24.0
+1503101,Gurupá,1508357,Vitória do Xingu,5.0
+1300680,Boa Vista do Ramos,1301902,Itacoatiara,12.0
+1301902,Itacoatiara,1303403,Parintins,15.0
+1505304,Oriximiná,1507979,Terra Santa,12.0
+1300086,Anamã,1302603,Manaus,39.0
+1507805,Senador José Porfírio,1508357,Vitória do Xingu,2.0
+1301902,Itacoatiara,1302009,Itapiranga,8.0
+1503903,Juruti,1506005,Prainha,14.0
+1300060,Amaturá,1304237,Tonantins,17.75
+1300409,Barcelos,1303601,Santa Isabel do Rio Negro,16.0
+1302603,Manaus,1304260,Uarini,7.5
+1501402,Belém,1504505,Melgaço,23.0
+1501105,Bagre,1507706,São Sebastião da Boa Vista,1.5
+1500305,Afuá,1501808,Breves,1.5
+1302405,Lábrea,1304104,Tapauá,1.5
+1303007,Nhamundá,1506807,Santarém,12.0
+1301704,Humaitá,1303304,Novo Aripuanã,6.0
+1508084,Tucumã,1508357,Vitória do Xingu,2.0
+1503903,Juruti,1505304,Oriximiná,46.0
+2707503,Porto Real do Colégio,2805703,Propriá,186.0
+1200203,Cruzeiro do Sul,1301803,Ipixuna,4.0
+1300631,Beruri,1302603,Manaus,24.0
+1500107,Abaetetuba,1504000,Limoeiro do Ajuru,3.0
+1500305,Afuá,1500701,Anajás,4.5
+1501808,Breves,1506807,Santarém,6.0
+1100205,Porto Velho,1300805,Borba,16.0
+1303403,Parintins,1500503,Almeirim,5.5
+1302603,Manaus,1304104,Tapauá,10.5
+1504802,Monte Alegre,1600808,Vitória do Jari,5.5
+1304062,Tabatinga,1304203,Tefé,11.0
+1502806,Curralinho,1505205,Oeiras do Pará,6.0
+1301852,Iranduba,1302603,Manaus,7.5
+1500404,Alenquer,1503903,Juruti,8.0
+1300805,Borba,1301704,Humaitá,6.0
+1302603,Manaus,1303601,Santa Isabel do Rio Negro,16.0
+1501105,Bagre,1501402,Belém,14.5
+1302306,Jutaí,1304062,Tabatinga,21.125
+1302603,Manaus,1506005,Prainha,12.5
+1501808,Breves,1505106,Óbidos,3.0
+1500503,Almeirim,1505106,Óbidos,7.0
+1501808,Breves,1505809,Portel,124.0
+1300508,Barreirinha,1300680,Boa Vista do Ramos,16.0
+1500107,Abaetetuba,1504901,Muaná,3.0
+1501303,Barcarena,1505809,Portel,4.0
+1505106,Óbidos,1507979,Terra Santa,14.5
+1501402,Belém,1507706,São Sebastião da Boa Vista,51.0
+1503101,Gurupá,1503903,Juruti,9.0
+1500503,Almeirim,1501808,Breves,7.0
+1301209,Coari,1301308,Codajás,71.0
+1500503,Almeirim,1505908,Porto de Moz,27.5
+1501402,Belém,1505106,Óbidos,5.0
+1302702,Manicoré,1303106,Nova Olinda do Norte,36.5
+2706703,Penedo,2806404,Santana do São Francisco,120.0
+1301209,Coari,1302207,Juruá,2.0
+1302801,Maraã,1304203,Tefé,13.0
+1502855,Curuá,1506807,Santarém,22.0
+1301308,Codajás,1304260,Uarini,3.0
+1302603,Manaus,1503101,Gurupá,7.5
+1302603,Manaus,1302900,Maués,18.0
+1501006,Aveiro,1506807,Santarém,80.0
+1500602,Altamira,1600600,Santana,2.0
+1300086,Anamã,1300102,Anori,56.0
+1304401,Urucurituba,1507979,Terra Santa,2.0
+1301902,Itacoatiara,1503002,Faro,6.0
+1300029,Alvarães,1301308,Codajás,6.0
+1302603,Manaus,1500404,Alenquer,4.0
+1300508,Barreirinha,1303403,Parintins,59.0
+1506807,Santarém,1507979,Terra Santa,20.0
+1302603,Manaus,1303205,Novo Airão,9.0
+1500305,Afuá,1501402,Belém,1.5
+2105005,Humberto de Campos,2109403,Primeira Cruz,34.5
+1505908,Porto de Moz,1600600,Santana,16.5
+1300029,Alvarães,1304203,Tefé,136.0
+1300060,Amaturá,1304203,Tefé,11.0
+1501402,Belém,1600303,Macapá,2.0
+1500503,Almeirim,1506807,Santarém,42.0
+1301209,Coari,1302603,Manaus,69.0
+1300060,Amaturá,1301605,Fonte Boa,20.375
+1301308,Codajás,1304237,Tonantins,8.0
+1100205,Porto Velho,1302603,Manaus,19.0
+1501402,Belém,1507904,Soure,14.0
+1300060,Amaturá,1303700,Santo Antônio do Içá,20.75
+1502103,Cametá,1505205,Oeiras do Pará,36.0
+1501303,Barcarena,1600808,Vitória do Jari,3.0
